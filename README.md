@@ -1,2 +1,2 @@
 # Support-Vector-Machine
-Working on Non-Linearly Separable Data
+Non-Linearly Separable Data classification
